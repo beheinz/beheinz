@@ -6,5 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beheinz&layout=compact)](https://github.com/beheinz/)
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beheinz&layout=compact" />
+
 [twitter]: https://twitter.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
