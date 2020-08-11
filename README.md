@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beheinz)](https://github.com/beheinz/github-readme-stats)
-
-<img align="left" alt="beheinz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beheinz" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
